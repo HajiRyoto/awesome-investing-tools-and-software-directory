@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -27,7 +27,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🛡️ Compliance and Tax](#-compliance-and-tax) | 7 |
 | [💹 Trading and Brokerage](#-trading-and-brokerage) | 45 |
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
-| [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
+| [🔎 Screening and Discovery](#-screening-and-discovery) | 96 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
 | [🎓 Education and Community](#-education-and-community) | 8 |
 | [🧮 Calculators](#-calculators) | 2 |
@@ -270,6 +270,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Insider Screener](https://www.insiderscreener.com) — Insider Screener is a global insider-trading research platform for investors who want to screen, track, export, and alert on director and insider transactions across multiple markets. It is more structured than a simple… ([research profile](https://www.findmymoat.com/tools/insider-screener?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=insider-screener))
 - [Invesst](https://invesst.ai) — Invesst is an AI-first investing workspace for RIAs, portfolio managers, analysts, and serious self-directed investors who want natural-language research, stock and ETF screeners, automated valuation models, watchlists,… ([research profile](https://www.findmymoat.com/tools/invesst?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=invesst))
 - [Investing.com](https://www.investing.com) — Investing.com is a global market portal for investors who want quotes, charts, financial news, an economic calendar, watchlists, alerts, portfolio tracking, screeners, and mobile market monitoring in one place. The free… ([research profile](https://www.findmymoat.com/tools/investing-com?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=investing-com))
+- [Katana Screener](https://katanascreener.com/en/) — Screen ~3,800 Japanese stocks using natural language or a reference company. Katana combines editable financial filters with AI reading of EDINET annual reports and shows source passages for qualitative matches.
 - [Koyfin](https://www.koyfin.com) — Koyfin is a modern web and mobile financial terminal for investors, analysts, and advisors who want dashboards, charts, screeners, portfolios, news, alerts, transcripts, and market data without using a traditional… ([research profile](https://www.findmymoat.com/tools/koyfin?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=koyfin))
 - [Letters and Reviews](https://lettersandreviews.blogspot.com) — Letters and Reviews is a free personal curation site for fund manager letters, hedge fund letters, shareholder letters, ticker mentions, and quarterly 13F pages. It is useful for value investors and researchers who want… ([research profile](https://www.findmymoat.com/tools/letters-and-reviews?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=letters-and-reviews))
 - [LuxAlgo](https://www.luxalgo.com) — LuxAlgo is a TradingView-focused technical-analysis suite for traders who want packaged indicators, price-action overlays, screeners, alerts, oscillator tools, calculators, and AI-assisted backtesting. It is built for… ([research profile](https://www.findmymoat.com/tools/luxalgo?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=luxalgo))
