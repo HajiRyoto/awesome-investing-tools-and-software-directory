@@ -1,1 +1,6 @@
-[]
+[{
+  "name": "Katana Screener",
+  "url": "https://katanascreener.com/en/",
+  "categories": ["Screeners"],
+  "summary": "Screen around 3,800 Japanese listed companies by describing the companies you want or starting from a company you know. Katana turns your request into editable financial filters and AI questions answered by reading annual reports from EDINET, showing source passages for qualitative matches."
+}]
